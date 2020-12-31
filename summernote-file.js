@@ -42,6 +42,17 @@
 				maximumFileSizeError: 'Poids maximum dépassé.'
 			}
 		},
+		'cs-CZ': {
+			file: {
+				file: 'Soubor',
+				btn: 'Soubor',
+				insert: 'Vložit soubor',
+				selectFromFiles: 'Vybrat ze souborů',
+				url: 'URL souboru',
+				maximumFileSize: 'Maximální velikost souboru',
+				maximumFileSizeError: 'Maximální velikost souboru překročena.'
+			}
+		},
 	});
 	
 	$.extend($.summernote.options, {

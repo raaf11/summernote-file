@@ -142,3 +142,4 @@ function progressHandlingFunction(e) {
 Currently supports the following languages:
 * English
 * French
+* Czech
