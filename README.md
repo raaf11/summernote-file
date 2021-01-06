@@ -1,5 +1,7 @@
 # summernote-file
 
+/!\ THIS PROJECT IS NOT MAINTAINED ANYMORE
+
 [Summernote](https://summernote.org/) plugin to insert files by URL or file upload.
 
 [![npm version](https://badge.fury.io/js/summernote-file.svg)](https://badge.fury.io/js/summernote-file)
