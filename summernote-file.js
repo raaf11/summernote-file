@@ -93,7 +93,8 @@
 					contents: options.file.icon,
 					
 					// tooltip for button
-					tooltip: lang.file.file,
+					tooltip: "Upload file",
+					codeviewKeepButton: true,
 					click: function (e) {
 						context.invoke('file.show');
 					}
